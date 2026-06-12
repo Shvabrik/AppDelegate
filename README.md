@@ -1,2 +1,2 @@
 # AppDelegate
-An example of creating Application with Application Delegate for NeXT without InterfaceBuilder
+An example of creating Application with Application Delegate for NeXTSTEP without InterfaceBuilder
