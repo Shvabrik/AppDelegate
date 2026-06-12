@@ -1,0 +1,22 @@
+INSTALLDIR = "$(HOME)/Apps";
+GENERATEMAIN = YES;
+FILESTABLE = {
+    OTHER_LIBS = (Media_s, NeXT_s);
+    CLASSES = (AppDelegate.m);
+    OTHER_SOURCES = (Makefile);
+    H_FILES = (AppDelegate.h);
+    INTERFACES = ();
+    OTHER_LINKED = ();
+    M_FILES = (AppDelegate_main.m);
+};
+DOCICONFILES = ();
+APPCLASS = Application;
+DOCEXTENSIONS = ();
+MAINNIB = AppDelegate;
+PROJECTTYPE = Application;
+PROJECTVERSION = 1.1;
+LOCALIZABLE_FILES = {
+};
+PROJECTNAME = AppDelegate;
+SYSTEMEXTENSIONS = ();
+LANGUAGE = English;
